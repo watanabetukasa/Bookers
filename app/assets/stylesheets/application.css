@@ -1,0 +1,107 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+header {
+  padding-top: 20px;
+  padding-left: 40px;
+}
+
+.title {
+  font-weight: bold;
+  font-size:25px;
+}
+
+.top-body {
+  font-size:13px;
+  padding: 15px;
+}
+
+/*index.css*/
+
+.content {
+  margin-bottom: 20px;
+}
+
+h1 {
+  padding-bottom: 10px;
+}
+
+.book-list {
+  font-size: 13px;
+}
+
+.book-list-show {
+  font-size: 13px;
+  font-weight: 100;
+  padding-right: 7px;
+  text-align: left;
+}
+
+.book-link {
+  padding: 0 5px;
+}
+
+.new-book {
+  font-size: 15px;
+}
+
+h2 {
+  padding:5px 0;
+}
+
+.new-book-update {
+  padding-bottom: 10px;
+}
+
+/*show.css*/
+
+.show {
+  font-size:13px;
+  padding: 30px 0 0 60px;
+}
+
+.show-content {
+  padding-bottom: 30px;
+  padding-top:20px;
+}
+
+.show-link {
+  font-size:15px;
+  padding-left: 25px;
+}
+
+/*edit.css*/
+
+.edit {
+  padding:20px 30px;
+}
+
+h3 {
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.edit-content {
+  font-size: 13px;
+  padding-bottom: 10px;
+}
+
+.edit-link {
+  font-size: 13px;
+  padding-top: 10px;
+}
+
+.message {
+  padding-bottom: 20px;
+  color: green;
+}
+
+.error-message {
+  width: 500px;
+  background-color: red;
+  padding-left: 20px;
+}
